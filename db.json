@@ -29,30 +29,6 @@
             "cityCode": "01101",
             "cityName": "札幌市中央区",
             "bigCityFlag": "1"
-        },
-        {
-            "prefCode": 1,
-            "cityCode": "01102",
-            "cityName": "札幌市北区",
-            "bigCityFlag": "1"
-        },
-        {
-            "prefCode": 1,
-            "cityCode": "01103",
-            "cityName": "札幌市東区",
-            "bigCityFlag": "1"
-        },
-        {
-            "prefCode": 1,
-            "cityCode": "01104",
-            "cityName": "札幌市白石区",
-            "bigCityFlag": "1"
-        },
-        {
-            "prefCode": 1,
-            "cityCode": "01105",
-            "cityName": "札幌市豊平区",
-            "bigCityFlag": "1"
         }
     ],
     "prefectures": [{
@@ -61,32 +37,6 @@
     }, {
         "prefCode": 2,
         "prefName": "青森県"
-    }, {
-        "prefCode": 3,
-        "prefName": "岩手県"
-    }, {
-        "prefCode": 4,
-        "prefName": "宮城県"
-    }, {
-        "prefCode": 5,
-        "prefName": "秋田県"
-    }, {
-        "prefCode": 6,
-        "prefName": "山形県"
-    }, {
-        "prefCode": 7,
-        "prefName": "福島県"
-    }, {
-        "prefCode": 8,
-        "prefName": "茨城県"
-    }, {
-        "prefCode": 9,
-        "prefName": "栃木県"
-    }, {
-        "prefCode": 10,
-        "prefName": "群馬県"
-    }, {
-        "prefCode": 11,
-        "prefName": "埼玉県"
     }]
 }
+
